@@ -1,4 +1,4 @@
-Run make facile, and then ./bin/facile.
+Run make facile, and then ./bin/facile with the input file and output file as the next two arguments.
 
 FACILE LANGUAGE:
 
