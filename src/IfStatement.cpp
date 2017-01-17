@@ -1,4 +1,4 @@
-#include "IfStatement.h"
+#include "../lib/IfStatement.h"
 using namespace std;
 
 IfStatement::IfStatement(std::string variableName, std::string op, int value, int line)

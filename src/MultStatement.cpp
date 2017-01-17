@@ -1,4 +1,4 @@
-#include "MultStatement.h"
+#include "../lib/MultStatement.h"
 using namespace std;
 
 MultStatement::MultStatement(std::string variableName, int value)

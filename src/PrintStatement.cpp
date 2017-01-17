@@ -1,5 +1,5 @@
 // PrintStatement.cpp:
-#include "PrintStatement.h"
+#include "../lib/PrintStatement.h"
 
 PrintStatement::PrintStatement(std::string variableName)
 	: m_variableName( variableName )

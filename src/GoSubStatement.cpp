@@ -1,4 +1,4 @@
-#include "GoSubStatement.h"
+#include "../lib/GoSubStatement.h"
 using namespace std;
 
 GoSubStatement::GoSubStatement(int line)

@@ -1,5 +1,5 @@
 // LetStatement.cpp:
-#include "LetStatement.h"
+#include "../lib/LetStatement.h"
 using namespace std;
 
 LetStatement::LetStatement(std::string variableName, int value)

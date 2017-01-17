@@ -1,4 +1,4 @@
-#include "ProgramState.h"
+#include "../lib/ProgramState.h"
 using namespace std;
 
 ProgramState::ProgramState(int numLines) {

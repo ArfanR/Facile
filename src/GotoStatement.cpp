@@ -1,4 +1,4 @@
-#include "GotoStatement.h"
+#include "../lib/GotoStatement.h"
 using namespace std;
 
 GotoStatement::GotoStatement(int value)

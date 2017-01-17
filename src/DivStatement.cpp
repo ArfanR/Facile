@@ -1,4 +1,4 @@
-#include "DivStatement.h"
+#include "../lib/DivStatement.h"
 #include <stdexcept>
 using namespace std;
 

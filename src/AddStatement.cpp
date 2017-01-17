@@ -1,4 +1,4 @@
-#include "AddStatement.h"
+#include "../lib/AddStatement.h"
 using namespace std;
 
 AddStatement::AddStatement(std::string variableName, int value)

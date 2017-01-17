@@ -1,4 +1,4 @@
-#include "stackint.h"
+#include "../lib/stackint.h"
 #include <stdexcept>
 
 StackInt::StackInt() {

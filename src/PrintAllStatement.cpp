@@ -1,5 +1,5 @@
 // PrintStatement.cpp:
-#include "PrintAllStatement.h"
+#include "../lib/PrintAllStatement.h"
 using namespace std;
 
 PrintAllStatement::PrintAllStatement() {
